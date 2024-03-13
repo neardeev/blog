@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:neardeev/neardeev.github.io.git
+	branch = main

@@ -1,51 +1,46 @@
 ---
 # Display name
-title: 吳健雄
+title: Никита Ардеев
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Nikita Ardeev
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nikita Evgenievich
+last_name: Ardeev
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: :) ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент ФФМиЕН РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: РУДН
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Меня интересуют языки и высшая математика
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+ - Языки
+ - Чтение детективов
+ - Экономика
+ - Путешествия
+  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course: среднее общее образование
+      insitution: МОУ СОШ "Лицей №230"
+      year: 2023
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -94,10 +89,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: telegram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://tg.com/GeorgeCushen
+    label: Follow me on T.me
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -105,10 +100,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/neardeev
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ардеев Никита Евгеньевич - студент первого курса факукльтета физико-математических и естественных наук, проходит курс по программе прикладная математика и информатика. Занимается углубленным изучением макроэкономичеких процессов на основе учения классиков формационного подхода, изучает английский, немецкий, польский языки, много путешествует. Желает, чтобы математика работала на людей, а не люди на математику.
 {style="text-align: justify;"}
