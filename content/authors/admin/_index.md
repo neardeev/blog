@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Никита Ардеев
+title: Никит Ардеев
 
 # Name pronunciation (optional)
 name_pronunciation: Nikita Ardeev
