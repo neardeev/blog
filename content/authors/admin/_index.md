@@ -73,6 +73,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/neardeev
+    icon: graduation-cap # Alternatively, use 'google-scholar' from 'ai' icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/?pli=1
+    icon: etsy
+    icon_pack: fab
+    link: https://elibrary.ru/author_info.asp?isold=1
+    icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0009-0005-9200-7836&justRegistered=true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
